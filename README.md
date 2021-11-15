@@ -1,6 +1,6 @@
-### Привет 🚀
+# Привет 🚀
 
-# Меня зовут Кирилл! 👋
+### Меня зовут Кирилл! 👋
 <!--
 **Kirill12a/Kirill12a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
