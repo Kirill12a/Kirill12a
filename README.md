@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://t.me/kikooki**
 
-- 💼 My resume on habr and linkedin - [linkedin](https://www.linkedin.com/in/kirill-drozdov-7ba685227/) 
+- 💼 My resume on [habr](https://career.habr.com/kikosdrozd) and [linkedin](https://www.linkedin.com/in/kirill-drozdov-7ba685227/) 
 
 <p align="left">
 </p>
