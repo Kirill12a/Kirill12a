@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **https://t.me/kikooki**
 
+- 💼 My resume on habr and linkedin [https://www.linkedin.com/jobs/search/?currentJobId=2829221634&f_E=1&geoId=103644278&keywords=ios%20delevoper&location=Соединенные%20Штаты%20Америки]
+
 
 <p align="left">
 </p>
