@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirill12a&label=Profile%20views&color=0e75b6&style=flat" alt="kirill12a" /> </p>
 
-
-
 - 🧘‍♂ Looking for inspiration **kiko projects**
 
 - 🌱 I’m currently learning **VIPER;CoreData;GCP**
