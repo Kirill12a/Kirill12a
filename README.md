@@ -1,4 +1,4 @@
-<h1 ![image](https://user-images.githubusercontent.com/45273279/147571612-94d598fb-769a-4473-8aa7-91369ff5e777.gif)</h1>
+ ![image](https://user-images.githubusercontent.com/45273279/147571612-94d598fb-769a-4473-8aa7-91369ff5e777.gif)
 <h3 align="center">young iOS developer from Russia 🇷🇺</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirill12a&label=Profile%20views&color=0e75b6&style=flat" alt="kirill12a" /> </p>
