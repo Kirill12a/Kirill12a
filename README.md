@@ -6,7 +6,7 @@ src="https://user-images.githubusercontent.com/45273279/147571612-94d598fb-769a-
 //
 <h1 align="center"><img
 src="https://user-images.githubusercontent.com/45273279/147573129-890c31a4-f84a-4eeb-bfab-1379ed7b7da6.gif" height="32"/></
- 
+<img  src="https://user-images.githubusercontent.com/45273279/147573129-890c31a4-f84a-4eeb-bfab-1379ed7b7da6.gif" height="32"/></
  h1>
 
 //
