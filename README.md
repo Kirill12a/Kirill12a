@@ -1,6 +1,15 @@
  ![image](https://user-images.githubusercontent.com/45273279/147571612-94d598fb-769a-4473-8aa7-91369ff5e777.gif)
+ 
  <h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Elon Tang</a> <img
 src="https://user-images.githubusercontent.com/45273279/147571612-94d598fb-769a-4473-8aa7-91369ff5e777.gif" height="32" /></h1>
+
+//
+<h1 align="center"><img
+src="https://user-images.githubusercontent.com/45273279/147573129-890c31a4-f84a-4eeb-bfab-1379ed7b7da6.gif" height="32" /></
+ 
+ h1>
+
+//
 <h3 align="center">young iOS developer from Russia 🇷🇺</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirill12a&label=Profile%20views&color=0e75b6&style=flat" alt="kirill12a" /> </p>
