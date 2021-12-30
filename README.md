@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
 <h3 align="center">young iOS developer from Russia 🇷🇺</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirill12a&label=Profile%20views&color=0e75b6&style=flat" alt="kirill12a" /> </p>
 
 - 🧘‍♂ Looking for inspiration **kiko projects**
 
