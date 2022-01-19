@@ -3,7 +3,7 @@
 
 
 - 🧘‍♂ Looking for inspiration **kiko projects**
-- 🌱 I’m currently learning **VIPER;CoreData;GCP**
+- 🌱 I’m currently learning **MVVM;CoreData;GCP**
 - 👨‍💻 All of my projects are available at [https://github.com/Kirill12a](https://github.com/Kirill12a)
 - 💬 Ask me about **anything**
 - 📫 How to reach me **https://t.me/kikooki**
