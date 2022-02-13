@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
 <h3 align="center">young iOS developer from Russia 🇷🇺</h3>
 
-
-
 - 🧘‍♂ Looking for inspiration **kiko projects**
 - 🌱 I’m currently learning **GCD;CoreData;MVP**
 - 👨‍💻 All of my projects are available at [https://github.com/Kirill12a](https://github.com/Kirill12a)
