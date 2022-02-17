@@ -16,25 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirill12a&show_icons=true&locale=en&layout=compact" alt="kirill12a" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirill12a&show_icons=true&locale=en" alt="kirill12a" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirill12a&" alt="kirill12a" /></p>
-
-
-
-{
-  "name": "readme-md-generator",
-  "version": "0.1.3",
-  "description": "CLI that generates beautiful README.md files.",
-  "author": "Franck Abgrall",
-  "license": "MIT",
-  "homepage": "https://github.com/kefranabg/readme-md-generator#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kefranabg/readme-md-generator.git"
-  },
-  "bugs": {
-    "url": "https://github.com/kefranabg/readme-md-generator/issues"
-  },
-  "engines": {
-    "npm": ">=5.5.0",
-    "node": ">=9.3.0"
-  }
-}
