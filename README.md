@@ -3,7 +3,7 @@
 <h3 align="center">young iOS developer from Russia 🇷🇺</h3>
 
 - 🧘‍♂ Looking for inspiration **kiko projects**
-- 🌱 I’m currently learning **GCD;CoreData;MVP**
+- 🌱 I’m currently learning **GCD;MVP**
 - 👨‍💻 All of my projects are available at [https://github.com/Kirill12a](https://github.com/Kirill12a)
 - 💬 Ask me about **anything**
 - 📫 How to reach me **https://t.me/kikooki**
