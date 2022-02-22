@@ -15,3 +15,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirill12a&show_icons=true&locale=en&layout=compact" alt="kirill12a" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirill12a&show_icons=true&locale=en" alt="kirill12a" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirill12a&" alt="kirill12a" /></p>
+
+
+<img src="https://github.com/Kirill12a/readme/blob/main/redme.gif" alt="Here is a little bit about me!">
