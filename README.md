@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
 
 <h3 align="center">young iOS developer from Russia 🇷🇺</h3>
-# NoWar
 
 
 - 🧘‍♂ Looking for inspiration **kiko projects**
