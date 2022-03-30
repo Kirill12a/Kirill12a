@@ -4,7 +4,7 @@
 
 
 - 🧘‍♂ Looking for inspiration **kiko projects**
-- 🌱 I’m currently learning **UITest**
+- 🌱 I’m currently learning **UI/UXTest**
 - 👨‍💻 All of my projects are available at [https://github.com/Kirill12a](https://github.com/Kirill12a)
 - 💬 Ask me about **anything**
 - 📫 How to reach me **https://t.me/kikooki**
