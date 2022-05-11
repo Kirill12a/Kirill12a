@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kirill</h1>
 
-- 🌱 I’m currently learning **GCD**
+
+- 🌱 I’m currently learning **ARC**
 - 📫 How to reach me **https://t.me/kikooki**
+- 
 - 💼 My resume on [habr](https://career.habr.com/kikosdrozd) and [linkedin](https://www.linkedin.com/in/kirill-drozdov-7ba685227/) 
 <p align="left">
 </p>
