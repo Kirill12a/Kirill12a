@@ -1,4 +1,4 @@
-![header_en](https://user-images.githubusercontent.com/45273279/168380316-7679ff6c-8a83-43b4-98ff-c0ed157dbe3a.svg)
+£ 3![header_en](https://user-images.githubusercontent.com/45273279/168380316-7679ff6c-8a83-43b4-98ff-c0ed157dbe3a.svg)
 
 👾  About Me
 
