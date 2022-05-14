@@ -1,7 +1,5 @@
-£ 3![header_en](https://user-images.githubusercontent.com/45273279/168380316-7679ff6c-8a83-43b4-98ff-c0ed157dbe3a.svgУБРАТЬ)
-
+https://giphy.com/clips/studiosoriginals-sleep-tired-sleepy-u2wg2uXJbHzkXkPphr
 👾  About Me
-
    - 🧑‍💻  I teach ios development at home
    - 🌱  everything is very hard
    - ✍️  trying to get a junior ios developer job
