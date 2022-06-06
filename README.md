@@ -2,6 +2,7 @@
 
 
 
+
 👾  About Me
    - 🧑‍💻  I teach ios development at home
    - 🌱  everything is very hard
