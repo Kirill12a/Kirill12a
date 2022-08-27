@@ -4,5 +4,3 @@
    - ✍️ ios developer
    - 💬 How to reach me **https://t.me/kikooki**
    
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kirill12a&" alt="kirill12a" /></p>
-
