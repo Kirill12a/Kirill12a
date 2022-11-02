@@ -3,4 +3,4 @@
 👾  About Me
    - ✍️ ios developer
    - 💬 How to reach me **https://t.me/kikooki**
-   - 💼 [CV]: https://career.habr.com/kikosdrozd
+   - 💼[CV]([https://link-url-here.org](https://career.habr.com/kikosdrozd))
